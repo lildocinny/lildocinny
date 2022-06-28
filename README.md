@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lildocinny
 - 👀 I’m interested in product management
-- 🌱 I’m currently learning Blockhachin development
+- 🌱 I’m currently working on Machine Learning projects
 - 💞️ I’m looking to contribute to an open source project  
 - 📫 How to reach me at lildocinny@gmail.com
 
